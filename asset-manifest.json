@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/goit-react-mod5-router/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-mod5-router/static/js/main.07d3183d.js",
+    "main.js": "/goit-react-mod5-router/static/js/main.2661833e.js",
     "index.html": "/goit-react-mod5-router/index.html",
     "main.7acaea2f.css.map": "/goit-react-mod5-router/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-react-mod5-router/static/js/main.07d3183d.js.map"
+    "main.2661833e.js.map": "/goit-react-mod5-router/static/js/main.2661833e.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.2661833e.js"
   ]
 }
