@@ -1,4 +1,4 @@
-export const Reviews = () => {
+export default function Reviews() {
     return (
       <section>
         <div>
